@@ -1,3 +1,5 @@
-tutorial_workspace/
 venv/
 __pycache__/
+
+tutorial_workspace/
+app_workspace/
