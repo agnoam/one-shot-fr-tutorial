@@ -1,0 +1,10 @@
+name,input_vector,output_vector,elasticsearch_support,maintainer
+VGG-Face,"(224, 224, 3)",2622d,,
+Facenet,"(160, 160, 3)",128d,V,Google
+Facenet512,"(160, 160, 3)",512d,V,Google
+OpenFace,"(96, 96, 3)",128d,V,
+DeepFace,"(152, 152, 3)",4096d,,Meta
+DeepID,"(47, 55, 3)",160d,V,
+ArcFace,"(112, 112, 3)",512d,V,
+Dlib,"(150, 150, 3)",128d,V,
+SFace,"(112, 112, 3)",128d,V,
